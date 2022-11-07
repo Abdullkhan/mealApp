@@ -1,0 +1,4 @@
+#Wed Oct 12 02:36:30 CDT 2022
+base.0=E\:\\VS code flutter projects\\food_delivery_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
